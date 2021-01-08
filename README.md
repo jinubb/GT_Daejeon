@@ -20,6 +20,14 @@
 4. 자동 손 세정  
     - 위 과정을 거친 후 손을 인식하여 자동 손 세정 및 문 열림
 
-### [제품 구성]
+### [프로토타입 설계]
 
-1. 라즈베리파이 
+- 전면
+![20200222_221721](https://user-images.githubusercontent.com/53621550/104006526-f2f05a80-51e9-11eb-8e15-8c48416d6a1b.jpg)
+
+- 후면
+![20200222_221706](https://user-images.githubusercontent.com/53621550/104006593-0b607500-51ea-11eb-9e19-26ebf36062e1.jpg)
+
+### [세부 내용]
+
+- [Document](https://github.com/jinubb/GT_Daejeon/tree/master/Documents)
